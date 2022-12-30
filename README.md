@@ -29,10 +29,10 @@ Some of the things you might learn by using Bootstrap to create an e-commerce we
 Overall, using Bootstrap can be a helpful way to create an e-commerce website by providing pre-designed components and tools that can save time and effort in the development process.
 
 ## Project Sections
-Part1: Responsive Home Page Design.
-Part2: Shop Page & Single Product Page.
-Part3: Blog Page.
-Part4: Ecommerce Shopping Cart.
+- Part1: Responsive Home Page Design.
+- Part2: Shop Page & Single Product Page.
+- Part3: Blog Page.
+- Part4: Ecommerce Shopping Cart.
 
 Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
 
